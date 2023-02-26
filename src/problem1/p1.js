@@ -19,6 +19,8 @@ var sum_to_n_c = function(n) {
   else return (1+n) * n / 2;
 };
 
+/*
 console.log(sum_to_n_a(5));
 console.log(sum_to_n_b(5));
 console.log(sum_to_n_c(5));
+*/
